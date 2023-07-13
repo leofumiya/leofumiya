@@ -1,4 +1,4 @@
-### Olá! Eu sou o Leonardo Fumiya
+### Olá! Eu sou o Leonardo Fumiya Janegitz
 
 - 🔭 Atualmente estou estudando para Desenvolvedor Jr
 - 🌱 Estudando Java
